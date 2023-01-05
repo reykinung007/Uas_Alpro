@@ -1,0 +1,45 @@
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.exe.config
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.pdb
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Security.Permissions.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Numerics.Vectors.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.Form1.resources
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.Resources.resources
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.vbproj.GenerateResource.Cache
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.pdb
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\UASProject.exe.config
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\UASProject.exe
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\UASProject.pdb
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\UASProject.xml
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\ZstdNet.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\System.Memory.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\System.Security.Permissions.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.vbproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.exe.config
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.Form1.resources
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.Resources.resources
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.vbproj.GenerateResource.cache
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.vbproj.CopyComplete
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.exe
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.xml
+C:\Users\USER\Downloads\Compressed\UASreynaldi\UASProject\obj\Debug\UASProject.pdb
